@@ -1,2 +1,4 @@
-- [x] Done Task
-- [ ] Not Done Task
+# CVE Walkthrough
+
+- [x][CVE-2025-28010](CVE-2025-28010/)
+- [ ][CVE-2025-22145](CVE-2025-22145/)
