@@ -1,3 +1,5 @@
 /html/
 vendor/
 composer.lock
+plugins/
+themes/
