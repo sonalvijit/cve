@@ -5,3 +5,4 @@ plugins/
 themes/
 .env
 laravel-project/
+__pycache__
