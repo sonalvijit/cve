@@ -1,7 +1,6 @@
 /html/
 vendor/
 composer.lock
-plugins/
 themes/
 .env
 laravel-project/
