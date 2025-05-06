@@ -5,4 +5,5 @@ themes/
 .env
 laravel-project/
 __pycache__
+*.pyc
 test-res.txt
