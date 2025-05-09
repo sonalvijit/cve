@@ -7,3 +7,4 @@ laravel-project/
 __pycache__
 *.pyc
 test-res.txt
+*.db
