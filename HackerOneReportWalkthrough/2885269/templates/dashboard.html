@@ -1,0 +1,8 @@
+<h2>Welcome, {{ user.email }}</h2>
+<p>Your Role: <b>{{ user.role }}</b></p>
+
+{% if user.role == 'owner' %}
+    <a href="/invite">Invite Someone</a><br>
+{% endif %}
+
+<a href="/logout">Logout</a>
