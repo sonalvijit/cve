@@ -1,5 +1,9 @@
 # CVE Walkthrough
 
+## INTRO
+
+Practicing Infamous CVE Walkthroughs via Docker Containers. By this, learners and security researchers can safely study how these vulnerabilities were exploited in real-world scenarios without risking their host machines.
+
 This repository contains walkthroughs and simulations for various CVEs (Common Vulnerabilities and Exposures). Each folder represents a specific CVE and includes relevant files for understanding, exploiting, and mitigating the vulnerability.
 
 ## Folder Structure
